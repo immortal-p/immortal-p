@@ -1,11 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Akhmed Magomedov
+Hi 👋 My name is Akhmed Magomedov
 =========================================================================================================================================
 
 Frontend Developer
 ------------------
 
-Aspiring frontend developer specializing in building modern web interfaces using React. I love clean, maintainable code and focus on responsiveness and performance. I'm learning best development practices and constantly improving my skills.
 
+* ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. I love clean, maintainable code and focus on responsiveness and performance. I'm learning best development practices and constantly improving my skills.
 * ✉️  You can contact me at [ahmedmagomedov206@gmail.com](mailto:ahmedmagomedov206@gmail.com)
 * 🧠  I'm currently learning JavaScript
 * 👥  I'm looking to collaborate on exciting projects as a frontend developer
