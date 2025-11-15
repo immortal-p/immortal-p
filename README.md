@@ -1,19 +1,14 @@
 <img src="./imgs/backgrounв.jpeg" style="width:auto; height:auto" />
 
-
 <h1 align="center">Frontend Developer</h1>
-
----
 
 <img src="./imgs/garou.gif" align="left" style="width: 300" />
 <h3 align="left">🌱 About Me</h3>
 <p>
-* ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
-      I love clean, maintainable code and focus on responsiveness and performance. <br>
-      I'm learning best development practices and constantly improving my skills. <br>
-* ✉️  You can contact me at [ahmedmagomedov206@gmail.com](mailto:ahmedmagomedov206@gmail.com) <br>
-* 🧠  I'm currently learning JavaScript <br>
-* 👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
+✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
+✉️  You can contact me at [ahmedmagomedov206@gmail.com](mailto:ahmedmagomedov206@gmail.com) <br>
+🧠  I'm currently learning JavaScript <br>
+👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
 </p>
 
 ---
