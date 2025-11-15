@@ -1,10 +1,9 @@
 <img src="./imgs/backgrounв.jpeg" style="width:auto; height:auto" />
 
 
-<h3 align="left">Frontend Developer</h3>
+<h1 align="center">Frontend Developer</h1>
 ------------------
 
-<img src="./imgs/garou.gif" align="left" alt="coding-gif" width="500">
 <h3 align="left">🌱 About Me</h3>
 <p>
 * ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
