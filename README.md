@@ -2,7 +2,8 @@
 
 <h1 align="center">Frontend Developer</h1>
 
-<img src="./imgs/garou.gif" hspace=15 width="300" align="left" />
+<div>
+<img src="./imgs/garou.gif" hspace=5 width="300" align="left" />
 <h3 align="left">🌱 About Me</h3>
 <p>
 ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
@@ -10,6 +11,7 @@
 🧠  I'm currently learning JavaScript <br>
 👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
 </p>
+</div>
 
 ---
 
