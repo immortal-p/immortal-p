@@ -1,24 +1,23 @@
 <img src="./imgs/backgrounв.jpeg" style="width:auto; height:auto" />
 
-<div align="center">
 
-    <h3 align="left">Frontend Developer</h3>
-    ------------------
+<h3 align="left">Frontend Developer</h3>
+------------------
 
-    <img src="./imgs/garou.gif" align="left" alt="coding-gif" width="500">
-    <h3 align="left">🌱 About Me</h3>
-    <p>
-    * ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
-          I love clean, maintainable code and focus on responsiveness and performance. <br>
-          I'm learning best development practices and constantly improving my skills. <br>
-    * ✉️  You can contact me at [ahmedmagomedov206@gmail.com](mailto:ahmedmagomedov206@gmail.com) <br>
-    * 🧠  I'm currently learning JavaScript <br>
-    * 👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
-    </p>
-    ------------------
+<img src="./imgs/garou.gif" align="left" alt="coding-gif" width="500">
+<h3 align="left">🌱 About Me</h3>
+<p>
+* ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
+      I love clean, maintainable code and focus on responsiveness and performance. <br>
+      I'm learning best development practices and constantly improving my skills. <br>
+* ✉️  You can contact me at [ahmedmagomedov206@gmail.com](mailto:ahmedmagomedov206@gmail.com) <br>
+* 🧠  I'm currently learning JavaScript <br>
+* 👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
+</p>
+------------------
 
-    <h4>Skills</h4>
-    <p align="center">
+<h4>Skills</h4>
+<p align="center">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a>
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a>
@@ -28,8 +27,7 @@
         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a>
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
         <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
-    <p>
-</div>
+<p>
 
 ### Socials
 
