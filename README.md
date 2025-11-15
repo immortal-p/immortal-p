@@ -2,7 +2,7 @@
 
 <h1 align="center">Frontend Developer</h1>
 
-<img src="./imgs/garou.gif" align="left" style="width: 300" />
+<img src="./imgs/garou.gif" hspace=15 width="300" align="left" />
 <h3 align="left">🌱 About Me</h3>
 <p>
 ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
@@ -28,4 +28,4 @@
 
 <h3 align="center">My GitHub Stats</h3>
 
-<a href="http://www.github.com/immortal-p"><img src="https://github-readme-stats.vercel.app/api?username=immortal-p&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="immortal-p's GitHub stats" /></a>
+<a align="center" href="http://www.github.com/immortal-p"><img src="https://github-readme-stats.vercel.app/api?username=immortal-p&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="immortal-p's GitHub stats" /></a>
