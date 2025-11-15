@@ -3,13 +3,13 @@
 <h1 align="center">Frontend Developer</h1>
 
 <div>
-<img src="./imgs/garou.gif" width="330" align="left" />
+<img src="./imgs/garou.gif" width="310" align="left" />
 <h3 align="left">🌱 About Me</h3>
-<p>
-✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
-✉️  You can contact me at [ahmedmagomedov206@gmail.com](mailto:ahmedmagomedov206@gmail.com) <br>
-🧠  I'm currently learning JavaScript <br>
-👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
+<p hspace="10">
+* ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
+* ✉️  You can contact me at [ahmedmagomedov206@gmail.com](mailto:ahmedmagomedov206@gmail.com) <br>
+* 🧠  I'm currently learning JavaScript <br>
+* 👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
 </p>
 </div>
 
@@ -27,6 +27,8 @@
         <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a>
         <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
 <p>
+
+---
 
 <h3 align="center">My GitHub Stats</h3>
 
