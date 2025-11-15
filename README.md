@@ -1,8 +1,7 @@
-<img src="./imgs/backgrounв.jpeg" style="width:auto; height:auto" />
+<img src="./imgs/back.jpeg" style="width:auto; height:auto" />
 
 <h1 align="center">Frontend Developer</h1>
 
-<div>
 <img src="./imgs/garou.gif" width="310" align="left" />
 <div align="left" width="50%">
     <h3>⣿ 🌱 About Me</h3>
@@ -10,7 +9,6 @@
     ⣿  ✉️  You can contact me at <a href="ahmedmagomedov206@gmail.com">ahmedmagomedov206@gmail.com</a> <br>
     ⣿  🧠  I'm currently learning JavaScript <br>
     ⣿  👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
-</div>
 </div>
 
 ---
@@ -35,3 +33,6 @@
 <p align="center">
     <a href="http://www.github.com/immortal-p"><img src="https://github-readme-stats.vercel.app/api?username=immortal-p&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="immortal-p's GitHub stats" /></a>
 </p>
+
+<div>
+</div>
