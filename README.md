@@ -5,11 +5,11 @@
 <div>
 <img src="./imgs/garou.gif" width="310" align="left" />
 <div align="left" width="50%">
-    <h3>🌱 About Me</h3>
-    ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
-    ✉️  You can contact me at <a href="(mailto:ahmedmagomedov206@gmail.com)">ahmedmagomedov206@gmail.com</a> <br>
-    🧠  I'm currently learning JavaScript <br>
-    👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
+    ⢻⣷⣄  <h3>🌱 About Me</h3>
+    ⢻⣷⣄  ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
+    ⢻⣷⣄  ✉️  You can contact me at <a href="ahmedmagomedov206@gmail.com">ahmedmagomedov206@gmail.com</a> <br>
+    ⢻⣷⣄  🧠  I'm currently learning JavaScript <br>
+    ⢻⣷⣄  👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
 </div>
 </div>
 
