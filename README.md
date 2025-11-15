@@ -28,11 +28,8 @@
 
 ---
 
-<h3 align="center">My GitHub Stats</h3>
+<h3 align="center">My GitHub Status</h3>
 
 <p align="center">
     <a href="http://www.github.com/immortal-p"><img src="https://github-readme-stats.vercel.app/api?username=immortal-p&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=171717&hide_border=true&show_icons=true" alt="immortal-p's GitHub stats" /></a>
 </p>
-
-<div>
-</div>
