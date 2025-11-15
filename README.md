@@ -1,4 +1,4 @@
-<img src="./imgs/back.jpeg" style="width:auto; height:auto" />
+<img src="./imgs/background.jpeg" style="width:auto; height:auto" />
 
 <h1 align="center">Frontend Developer</h1>
 
