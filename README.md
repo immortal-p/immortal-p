@@ -5,7 +5,7 @@
 <img src="./imgs/garou.gif" width="300" align="left" />
 
 <dl><dd><dl><dd><dl><dd><dl><dd>
-<div align="left" width="50%">
+<div width="50%">
     <h3 align="center">🌱 About Me</h3>
     <dl><dd><dl><dd><dl><dd><dl><dd>
     ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
