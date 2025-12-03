@@ -4,17 +4,14 @@
 
 <img src="./imgs/garou.gif" width="300" align="left" />
 
-<dl><dd><dl><dd><dl><dd><dl><dd>
 <div width="50%">
     <h3 align="center">🌱 About Me</h3>
-    <dl><dd><dl><dd><dl><dd><dl><dd>
-    ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
-    ✉️  You can contact me at <a href="mailto:ahmedmagomedov206@gmail.com">ahmedmagomedov206@gmail.com</a> <br>
-    🧠  I'm currently learning JavaScript <br>
-    👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
-    </dd></dl></dd></dl></dd></dl></dd></dl>
+    ⣿⣿ ✏️  Aspiring frontend developer specializing in building modern <br>
+    ⣿⣿ web interfaces using React. <br>
+    ⣿⣿ ✉️  You can contact me at <a href="mailto:ahmedmagomedov206@gmail.com">ahmedmagomedov206@gmail.com</a> <br>
+    ⣿⣿ 🧠  I'm currently learning JavaScript <br>
+    ⣿⣿ 👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
 </div>
-</dd></dl></dd></dl></dd></dl></dd></dl>
 
 ---
 
