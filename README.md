@@ -2,7 +2,7 @@
 
 <h1 align="center">Frontend Developer</h1>
 
-<img src="./imgs/garou.gif" width="240" align="left" style="margin-right: 10px;" />
+<img src="./imgs/garou.gif" width="240" align="left" />
 <div align="left" width="50%">
     <h3 align="center">🌱 About Me</h3>
     ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
@@ -16,44 +16,42 @@
 <h3 align="center">⚡ Skills</h3>
 
 <table align="center" style="border-spacing: 8px;">
-  <tr style="display: flex; align-items: flex-start; align: center; gap: 6px">
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+  <tr style="display: flex; align-items: flex-start; align: center">
+    <td style="; width:40px; height:40px; display:flex; justify-content:center; align-items:center;">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="36"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="38" height="38"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="38" height="38"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="; width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="38" height="38"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="37"/>
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38"/>
-    </td>
   </tr>
-  <tr style="display: flex; align-items: flex-start; align: center; gap: 6px">
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+  <tr style="display: flex; align-items: flex-start; align: center">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="38" height="38"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
         <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="38" height="38"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
         <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="38" height="38"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40"/>
     </td>
-    <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38"/>
     </td>
   </tr>
@@ -112,5 +110,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/immortal-p/immortal-p/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/immortal-p/immortal-p/output/snake.svg" alt="Snake animation" />
 </p>
