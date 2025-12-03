@@ -39,7 +39,7 @@
   </tr>
   <tr style="display: flex; align-items: flex-start; align: center; gap: 6px">
     <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="36"/>
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38"/>
     </td>
     <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="38" height="38"/>
