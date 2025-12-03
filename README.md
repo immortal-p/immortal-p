@@ -8,9 +8,10 @@
     <h3 align="center">🌱 About Me</h3>
     ⣿⣿ ✏️  Aspiring frontend developer specializing in building modern <br>
     ⣿⣿ web interfaces using React. <br>
-    ⣿⣿ ✉️  You can contact me at <a href="mailto:ahmedmagomedov206@gmail.com">ahmedmagomedov206@gmail.com</a> <br>
+    ⣿⣿ 📫  You can contact me at <a href="mailto:ahmedmagomedov206@gmail.com">ahmedmagomedov206@gmail.com</a> <br>
     ⣿⣿ 🧠  I'm currently learning JavaScript <br>
-    ⣿⣿ 👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
+    ⣿⣿ 👥  I'm looking to collaborate on exciting projects as a frontend <br>
+    ⣿⣿ developer
 </div>
 
 ---
@@ -18,7 +19,7 @@
 <h3 align="center">⚡ Skills</h3>
 
 <p align="center">
-<table align="center" height= "280">
+<table align="center" height= "260">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="47"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="47"/></td>
@@ -52,6 +53,8 @@
 
 <p align="center">
   <picture>
-    <img src="https://raw.githubusercontent.com/immortal-p/immortal-p/output/snake.svg" alt="Snake animation" />
+    <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+    <img alt="github-snake" src="github-snake.svg" />
   </picture>
 </p>
