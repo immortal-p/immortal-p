@@ -33,6 +33,7 @@
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40"/>
     </td>
     <td style="background:#333540; width:40px; height:40px; border-radius:6px; display:flex; justify-content:center; align-items:center;">
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="37"/>
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38"/>
     </td>
   </tr>
