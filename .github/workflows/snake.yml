@@ -19,7 +19,7 @@ jobs:
         id: snake-svg
         with:
           github_user_name: immortal-p
-          outputs: dist/snake.svg?color_snake=%2358a6ff&stroke=%233a3f44&background=%230d1117&color_dots=%23f78166
+          outputs: dist/snake.svg?color_snake=%2358a6ff&stroke=%233a3f44&color_dots=%23151515
 
       - name: Deploy snake animation
         uses: crazy-max/ghaction-github-pages@v3

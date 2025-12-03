@@ -51,5 +51,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/immortal-p/immortal-p/output/snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/immortal-p/immortal-p/output/snake.svg" />
+    <img src="https://raw.githubusercontent.com/immortal-p/immortal-p/output/snake.svg" alt="Snake animation" />
+  </picture>
 </p>
