@@ -3,6 +3,8 @@
 <h1 align="center">Frontend Developer</h1>
 
 <img src="./imgs/garou.gif" width="300" align="left" />
+
+<dl><dd><dl><dd><dl><dd><dl><dd>
 <div align="left" width="50%">
     <h3 align="center">🌱 About Me</h3>
     ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
@@ -10,6 +12,7 @@
     🧠  I'm currently learning JavaScript <br>
     👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
 </div>
+</dd></dl></dd></dl></dd></dl></dd></dl>
 
 ---
 
