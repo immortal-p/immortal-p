@@ -2,7 +2,7 @@
 
 <h1 align="center">Frontend Developer</h1>
 
-<img src="./imgs/garou.gif" width="240" align="left" />
+<img src="./imgs/garou.gif" width="300" align="left" />
 <div align="left" width="50%">
     <h3 align="center">🌱 About Me</h3>
     ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
@@ -15,90 +15,28 @@
 
 <h3 align="center">⚡ Skills</h3>
 
-<table align="center" style="border-spacing: 8px;">
-  <tr style="display: flex; align-items: flex-start; align: center">
-    <td style="; width:40px; height:40px; display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="36"/>
-    </td>
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="38" height="38"/>
-    </td>
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="38" height="38"/>
-    </td>
-    <td style="; width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="38" height="38"/>
-    </td>
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40"/>
-    </td>
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="37"/>
+<p align="center">
+<table height= "290px">
+  <tr>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="47"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="47"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="47"/></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="47"/></td>
+    <td><img src="https://techstack-generator.vercel.app/sass-icon.svg" width="47" alt="sass" /></td>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></td>
   </tr>
-  <tr style="display: flex; align-items: flex-start; align: center">
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38"/>
-    </td>
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="38" height="38"/>
-    </td>
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="38" height="38"/>
-    </td>
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="38" height="38"/>
-    </td>
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-        <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="40" height="40"/>
-    </td>
-    <td style="width:40px; height:40px;  display:flex; justify-content:center; align-items:center;">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38"/>
-    </td>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="48"/></td>
+    <td><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="48" /></td>
+    <td><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" /></td>
+    <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" /></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" width="48"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="figma" width="48"/></td>
+    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="vscode" width="48"/></td>
   </tr>
 </table>
-
-
-<!-- <div style="display: flex; width: 60%; height: 140px; align-items: center; flex-wrap: wrap; justify-content: center; gap: 6px; padding: 10px 0">
-        <div style="background: rgba(255, 255, 255, 0.05) !important; width: 47px; height: 43px; display: flex; justify-content: center; border-radius: 6px; padding-top: 6px">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a>
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; width: 47px; height: 43px; display: flex; justify-content: center; border-radius: 6px; padding-top: 6px">
-            <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" /></a>
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; width: 43px; height: 37px; border-radius: 6px; padding: 6px;
-        display: flex; justify-content: center">
-            <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; width: 43px; height: 37px; border-radius: 6px; padding: 6px; display: flex; justify-content: center">
-            <img src="https://skillicons.dev/icons?i=css" alt="css" />
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important;  width: 45px; height: 45px; border-radius: 6px; display: flex;">
-            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" />
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; width: 43px; height: 37px; border-radius: 6px; padding: 6px">
-            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; width: 43px; height: 37px; border-radius: 6px; padding: 6px">
-            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; width: 43px; height: 37px; border-radius: 6px; padding: 6px;
-        display: flex; justify-content: center">
-            <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="34" height="34" /></a>
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; padding: 4px; width: 40px; height: 40px; border-radius: 6px;">
-            <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" />
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; padding: 4px; width: 40px; height: 40px; border-radius: 6px;">
-            <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" />
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; padding: 4px; width: 40px; height: 40px; border-radius: 6px;">
-            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" />
-        </div>
-        <div style="background: rgba(255, 255, 255, 0.05) !important; width: 43px; height: 37px; border-radius: 6px; padding: 6px;
-        display: flex; justify-content: center">
-            <a href="https://fedoraproject.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" title="Fedora" width="36" height="36" /></a>
-        </div>
-</div> -->
+</p>
 
 ---
 
