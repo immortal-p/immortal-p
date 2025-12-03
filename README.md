@@ -7,10 +7,12 @@
 <dl><dd><dl><dd><dl><dd><dl><dd>
 <div align="left" width="50%">
     <h3 align="center">🌱 About Me</h3>
+    <dl><dd><dl><dd><dl><dd><dl><dd>
     ✏️  Aspiring frontend developer specializing in building modern web interfaces using React. <br>
     ✉️  You can contact me at <a href="mailto:ahmedmagomedov206@gmail.com">ahmedmagomedov206@gmail.com</a> <br>
     🧠  I'm currently learning JavaScript <br>
     👥  I'm looking to collaborate on exciting projects as a frontend developer <br>
+    </dd></dl></dd></dl></dd></dl></dd></dl>
 </div>
 </dd></dl></dd></dl></dd></dl></dd></dl>
 
