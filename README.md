@@ -16,24 +16,25 @@
 <h3 align="center">⚡ Skills</h3>
 
 <p align="center">
-<table height= "290px">
+<table align="center" height= "280">
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="47"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="47"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="47"/></td>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="47"/></td>
     <td><img src="https://techstack-generator.vercel.app/sass-icon.svg" width="47" alt="sass" /></td>
-    <td><img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="bootstrap" /></td>
-    <td><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></td>
   </tr>
   <tr>
+    <td><img src="https://skillicons.dev/icons?i=bootstrap" width="48" alt="bootstrap" /></td>
+    <td><img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" /></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="48"/></td>
     <td><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="webpack" width="48" /></td>
     <td><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="48" /></td>
+  </tr>
+  <tr>
     <td><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="48" /></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fedora-colored.svg" alt="Fedora" width="48"/></td>
     <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="figma" width="48"/></td>
-    <td><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="vscode" width="48"/></td>
   </tr>
 </table>
 </p>
